@@ -1,0 +1,6 @@
+*.suo
+*.ipch
+*.db
+*.opendb
+*.json
+*.sqlite

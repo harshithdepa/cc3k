@@ -1,0 +1,36 @@
+July 17 (DD1)
+  Implement Grid class (R)
+  Implement TextDisplay class (R)
+  Implement Entity class (R)
+  Implement reading layout into floor (R)
+  Finish command interpreter (H)
+  Implement Character and all derived classes (H)
+July 18 
+  Implement Spawner and Factory class (R)
+  Finish combat system (H)
+July 19
+  Implement player movement (H)
+  Implement enemy movement (H)
+July 20
+  Implement Item and its derived classes (L)
+  Implement PotionSpawner (L)
+  Implement TreasureSpawner (L)
+July 21
+  Implement Dragon placement (L)
+  Testing (ALL)
+July 22
+  Start implementing Inventory (R)
+  Implement Boss base class (L)
+July 23
+  Add soundtrack (R)
+  Design Bosses (L)
+  Start implementing Boss floors (L)
+  Start implementing extra Boss subclasses (L)
+  Implement graphics display (H)
+  WASD movement (H)
+July 24
+  Test bonus content (ALL)
+  Finish final report (ALL)
+  Update UML (ALL)
+July 25 (DD2)
+  Finish testing bonus content (ALL)
